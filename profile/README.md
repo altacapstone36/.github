@@ -1,7 +1,6 @@
 # Hi 👋 
 ## Ini merupakan Github team untuk Capstone Project Kelompok 36 MSIB 2 Alterra Academy dengan tema "Hospital Management System".
-### Dengan anggota kelompok : 
-1. 
+
 
 <!--
 
